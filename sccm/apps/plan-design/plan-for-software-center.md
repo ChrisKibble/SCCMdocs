@@ -48,7 +48,7 @@ Use the following table to help understand the requirements for Software Center 
 | Device type | Site version | Infrastructure |
 |-----------------|--------------|----------------|
 | Azure AD-joined device<br>(or "cloud domain-joined") | 1802 or 1806 | Management point for all app deployments |
-| [Hybrid Azure AD-joined](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup) device on the internet | 1802 or 1806 | Cloud management gateway and management point for all app deployments |
+| [Hybrid Azure AD-joined](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup) device on the Internet | 1802 or 1806 | Cloud management gateway and management point for all app deployments |
 | On-premises Active Directory domain-joined device | 1802 | Application catalog required for user-available apps through Software Center |
 | On-premises Active Directory domain-joined device | 1806 | Management point for all app deployments |
 
