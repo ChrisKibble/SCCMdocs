@@ -88,7 +88,7 @@ In System Center Configuration Manager, global conditions are rules that represe
      - **File or folder name** - Specify the name of the file or folder object that will be searched for. You can specify system environment variables and the *%USERPROFILE%* environment variable in the file or folder name. You can also use the * and ? wildcards in the file name.  
 
        > [!NOTE]  
-       >  If you specify a file or folder name and use wildcards, this might produce a high numbers of results. This could result in high resource use on the client computer and high network traffic when reporting results to Configuration Manager.  
+       >  If you specify a file or folder name and use wildcards, this might produce a high number of results. This could result in high resource use on the client computer and high network traffic when reporting results to Configuration Manager.  
 
      - **Include subfolders** – Enable this option if you also want to search any subfolders under the specified path.  
 
@@ -133,7 +133,7 @@ In System Center Configuration Manager, global conditions are rules that represe
 
      -   **Discovery script** – Choose **Add** to enter, or browse to the script to use. You can use Windows PowerShell, VBScript, or JScript scripts.  
 
-     -   **Run scripts by using the logged on user credentials** – If you enable this option, the script will run on client computers by using the credentials of the user who is signed in.  
+     -   **Run scripts by using the logged-on user credentials** – If you enable this option, the script will run on client computers by using the credentials of the user who is signed in.  
 
          > [!NOTE]  
          >  The value returned by the script will be used to assess the compliance of the global condition. For example, when you use VBScript, you could use the **WScript.Echo Result** command to return the Result variable value to the global condition.  
