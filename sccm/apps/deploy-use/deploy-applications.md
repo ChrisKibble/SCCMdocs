@@ -139,7 +139,7 @@ On the **Scheduling** page, set the time when this application is deployed or av
 
 By default, Configuration Manager makes the deployment policy available to clients right away. If you want to create the deployment, but not make it available to clients until a later date, configure the option to **Schedule the application to be available**. Then select the date and time, including whether that's based on UTC or the client's local time.
 
-If the deployment is **Required**, also specify the **Installation deadline**. By default this deadline is as soon as possible.
+If the deployment is **Required**, also specify the **Installation deadline**. By default, this deadline is as soon as possible.
 
 For example, you need to deploy a new line-of-business application. All users need to install it by a certain time, but you want to give them the option to opt-in early. You also need to make sure that the site has distributed the content to all distribution points. You schedule the application to be available in five days from today. This schedule gives you time to distribute the content and confirm its status. You then set the installation deadline for one month from today. Users see the application in Software Center when it's available in five days. If they do nothing, the client automatically installs the application at the installation deadline.
 
