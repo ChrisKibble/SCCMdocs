@@ -250,7 +250,7 @@ To select a collection of targets for your script:
 6. Click **Next**, and then complete the wizard.
 
 > [!IMPORTANT]
-> If a script does not run, for example because a target device is turned off during the one hour time period, you must run it again.
+> If a script does not run, for example because a target device is turned off during the one-hour time period, you must run it again.
 
 ### Target machine execution
 
