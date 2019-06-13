@@ -1,7 +1,7 @@
 ---
 title: Create and run scripts
 titleSuffix: Configuration Manager
-description: Create and run Powershell scripts on client devices.
+description: Create and run PowerShell scripts on client devices.
 ms.date: 03/13/2019
 ms.prod: configuration-manager
 ms.technology: configmgr-app
@@ -18,7 +18,7 @@ ms.collection: M365-identity-device-management
 *Applies to: System Center Configuration Manager (Current Branch)*
 
 <!--1236459-->
-System Center Configuration Manager has an integrated ability to run Powershell scripts. Powershell has the benefit of creating sophisticated, automated scripts that are understood and shared with a larger community. The scripts simplify building custom tools to administer software and let you accomplish mundane tasks quickly, allowing you to get large jobs done more easily and more consistently.  
+System Center Configuration Manager has an integrated ability to run PowerShell scripts. PowerShell has the benefit of creating sophisticated, automated scripts that are understood and shared with a larger community. The scripts simplify building custom tools to administer software and let you accomplish mundane tasks quickly, allowing you to get large jobs done more easily and more consistently.  
 
 > [!TIP]  
 > This feature was first introduced in version 1706 as a [pre-release feature](/sccm/core/servers/manage/pre-release-features). Beginning with version 1802, this feature is no longer a pre-release feature.  
